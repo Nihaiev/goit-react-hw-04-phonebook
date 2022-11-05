@@ -8,32 +8,6 @@
 
 }
 
-.item {
-    background-color: #FFFFFF;
-    border: 1px solid #000000;
-    padding: 10px;
-    border-radius: 4px;
-    margin-bottom: 5px;
-    display: flex;
-    justify-content: space-between;
-}
 
-.contact {
-    margin-right: 30px;
-}
- .btn {
-    text-decoration: none;
-    cursor: pointer;
-    width: 90px;
-    font-weight: bold; 
-    color: #000000;
-    border: 1px solid #000000;
-    border-radius: 4px;
-    background: #ffffff;
-} 
 
- .btn:hover {
-    background: #267bef;
-    color: #FFFFFF;
-    border: none;
-} 
+
